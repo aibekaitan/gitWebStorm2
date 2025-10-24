@@ -7,8 +7,3 @@ function greet(name) {
 // Тест функции
 const name = "Айбек2225";
  console.log(greet(name));
-console.log(greet(name));
-console.log(greet(name));
-console.log(greet(name));
-
-console.log(greet(name));
