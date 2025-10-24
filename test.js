@@ -5,6 +5,6 @@ function greet(name) {
 }
 
 // Тест функции
-const name = "Айбек";
-console.log(greet(name));
+const name = "Айбек2";
+ console.log(greet(name));
 
